@@ -1,0 +1,8 @@
+prefix=/home/erlendb/Programmering/PCL/kinect_ws/install
+
+Name: kinect2_registration
+Description: Description of kinect2_registration
+Version: 0.0.1
+Cflags: -I/home/erlendb/Programmering/PCL/kinect_ws/install/include
+Libs: -L/home/erlendb/Programmering/PCL/kinect_ws/install/lib -lkinect2_registration
+Requires: 

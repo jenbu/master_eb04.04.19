@@ -1,0 +1,8 @@
+prefix=/home/erlendb/Programmering/Master/kinect_ws/devel
+
+Name: kinectTesting
+Description: Description of kinectTesting
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/erlendb/Programmering/Master/kinect_ws/devel/lib 
+Requires: 

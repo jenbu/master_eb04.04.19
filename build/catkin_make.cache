@@ -1,0 +1,2 @@
+iai_kinect2/iai_kinect2:iai_kinect2/kinect2_bridge:iai_kinect2/kinect2_calibration:iai_kinect2/kinect2_registration:iai_kinect2/kinect2_viewer:kinect_node:yolo_node
+-DCATKIN_DEVEL_PREFIX=/home/erlendb/Programmering/Master/kinect_ws/devel -DCMAKE_INSTALL_PREFIX=/home/erlendb/Programmering/Master/kinect_ws/install -G Unix Makefiles

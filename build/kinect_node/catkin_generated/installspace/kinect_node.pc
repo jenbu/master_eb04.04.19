@@ -1,0 +1,8 @@
+prefix=/home/erlendb/Programmering/PCL/kinect_ws/install
+
+Name: kinect_node
+Description: Description of kinect_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/erlendb/Programmering/PCL/kinect_ws/install/lib 
+Requires: 

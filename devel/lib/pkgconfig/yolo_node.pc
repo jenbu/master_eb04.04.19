@@ -1,0 +1,8 @@
+prefix=/home/erlendb/Programmering/Master/kinect_ws/devel
+
+Name: yolo_node
+Description: Description of yolo_node
+Version: 0.0.0
+Cflags: -I/home/erlendb/Programmering/Master/kinect_ws/devel/include
+Libs: -L/home/erlendb/Programmering/Master/kinect_ws/devel/lib 
+Requires: 

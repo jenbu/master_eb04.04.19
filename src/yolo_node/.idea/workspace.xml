@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="yolo_node" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="yolo_node" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="yolo_node" targetName="yolo_node_genpy" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages_py" />
+      <config projectName="yolo_node" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="yolo_node" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="yolo_node" targetName="_yolo_node_generate_messages_check_deps_detection_info" />
+      <config projectName="yolo_node" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="yolo_node" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages_eus" />
+      <config projectName="yolo_node" targetName="gtest_main" />
+      <config projectName="yolo_node" targetName="std_msgs_generate_messages_py" />
+      <config projectName="yolo_node" targetName="run_tests" />
+      <config projectName="yolo_node" targetName="yolo_node_geneus" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages_lisp" />
+      <config projectName="yolo_node" targetName="yolo_node_genlisp" />
+      <config projectName="yolo_node" targetName="doxygen" />
+      <config projectName="yolo_node" targetName="tests" />
+      <config projectName="yolo_node" targetName="download_extra_data" />
+      <config projectName="yolo_node" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="yolo_node" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="yolo_node" targetName="gtest" />
+      <config projectName="yolo_node" targetName="roscpp_generate_messages_eus" />
+      <config projectName="yolo_node" targetName="yolo_node_gennodejs" />
+      <config projectName="yolo_node" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="yolo_node" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="yolo_node" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages" />
+      <config projectName="yolo_node" targetName="gmock_main" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages_nodejs" />
+      <config projectName="yolo_node" targetName="clean_test_results" />
+      <config projectName="yolo_node" targetName="yolo_node_generate_messages_cpp" />
+      <config projectName="yolo_node" targetName="roscpp_generate_messages_py" />
+      <config projectName="yolo_node" targetName="_yolo_node_generate_messages_check_deps_Num" />
+      <config projectName="yolo_node" targetName="yolo_node_gencpp" />
+      <config projectName="yolo_node" targetName="gmock" />
+      <config projectName="yolo_node" targetName="std_msgs_generate_messages_eus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a406ccd-b000-4b0f-a94c-cd9bcef21a52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.catkin_workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../.catkin_workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/kinect_ws.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/kinect_ws.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fuck_git" beforeDir="false" afterPath="$PROJECT_DIR$/../../fuck_git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/table_scene_lms400.pcd" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/table_scene_lms400.pcd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iai_kinect2" beforeDir="false" afterPath="$PROJECT_DIR$/../iai_kinect2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/.idea/kinectTesting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/cmake-build-debug/catkin_generated/stamps/kinectTesting/package.xml.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/src/data_capture.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/src/subscriber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/src/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinectTesting/src/viewer_edited.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinect_node/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kinect_node/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinect_node/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kinect_node/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinect_node/src/kinect_node_processor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../kinect_node/src/kinect_node_processor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kinect_node/src/point_cloud_testing.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kuk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/coco_annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/coco_annotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/darknet53.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/darknet53.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/font/FiraMono-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/font/FiraMono-Medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/font/SIL Open Font License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/font/SIL Open Font License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/model_data/coco_classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/model_data/coco_classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/model_data/voc_classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/model_data/voc_classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/model_data/yolo_anchors-normal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/model_data/yolo_anchors-normal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/model_data/yolo_anchors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/model_data/yolo_anchors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/test.avi" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/test.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/train_bottleneck.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/train_bottleneck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/voc_annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/voc_annotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolo3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolo3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolo3/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolo3/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolo3/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolo3/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolo_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolo_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolov3-tiny.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolov3-tiny.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keras_yolo3/yolov3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/src/keras_yolo3/yolov3.cfg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/darkflow/darkflow_detector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/darkflow/detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/get_image.py" />
+        <option value="$PROJECT_DIR$/src/darkflow/darkflow_detector.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.darkflow_detector">
+    <configuration name="_yolo_node_generate_messages_check_deps_Num" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="_yolo_node_generate_messages_check_deps_Num" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_yolo_node_generate_messages_check_deps_detection_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="_yolo_node_generate_messages_check_deps_detection_info" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_gencpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_geneus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_genlisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_gennodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yolo_node_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yolo_node" TARGET_NAME="yolo_node_genpy" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darkflow_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_node" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/darkflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/darkflow/darkflow_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detection_darkflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_node" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/detection_darkflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_node" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/get_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application._yolo_node_generate_messages_check_deps_detection_info" />
+      <item itemvalue="CMake Application._yolo_node_generate_messages_check_deps_Num" />
+      <item itemvalue="CMake Application.clean_test_results" />
+      <item itemvalue="CMake Application.download_extra_data" />
+      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_py" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.tests" />
+      <item itemvalue="CMake Application.yolo_node_gencpp" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages_cpp" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages_eus" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages_lisp" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.yolo_node_generate_messages_py" />
+      <item itemvalue="CMake Application.yolo_node_geneus" />
+      <item itemvalue="CMake Application.yolo_node_genlisp" />
+      <item itemvalue="CMake Application.yolo_node_gennodejs" />
+      <item itemvalue="CMake Application.yolo_node_genpy" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Python.darkflow_detector" />
+      <item itemvalue="Python.detection_darkflow" />
+      <item itemvalue="Python.get_image" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.darkflow_detector" />
+        <item itemvalue="Python.detection_darkflow" />
+        <item itemvalue="Python.get_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a406ccd-b000-4b0f-a94c-cd9bcef21a52" name="Default Changelist" comment="" />
+      <created>1550604112241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550604112241</updated>
+      <workItem from="1552324806903" duration="21000" />
+      <workItem from="1552325644014" duration="925000" />
+      <workItem from="1552466794082" duration="29000" />
+      <workItem from="1554045079971" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1355000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26091763" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32810867" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/get_image.py" />
+    <entry file="file://$PROJECT_DIR$/src/detection_darkflow.py" />
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/darkflow/detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/darkflow/darkflow_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

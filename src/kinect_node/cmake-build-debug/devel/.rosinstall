@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/erlendb/Programmering/PCL/kinect_ws/src/kinect_node/cmake-build-debug/devel/setup.sh
